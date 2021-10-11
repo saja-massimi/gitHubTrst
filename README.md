@@ -1,2 +1,2 @@
-# gitHubTrst
+# gitHubTest
 Just a simple test 
